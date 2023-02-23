@@ -1,0 +1,2 @@
+# DuolingoBot
+Gets xp automatically
